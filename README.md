@@ -29,7 +29,9 @@ Setelah Anda mendapatkan ide, buka isu baru dengan [mengklik di sini](https://gi
 Pastikan Anda mengisi informasi berikut:
 
 * Topik
+* Durasi
 * Ikhtisar ukuran Twitter (140 karakter)
-* Ikhtisar lengkap
+* Ikhtisar
+* Garis besar
 
 [**Kirim proposal disini**](https://github.com/deeptechid/pujangga-teknologi/issues/new)
