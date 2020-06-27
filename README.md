@@ -13,6 +13,7 @@ Proposal dikirimkan dengan membuat [*isu* baru](https://github.com/deeptechid/pu
     - Ketersediaan
     - Waktu respon
     - Unsur tunggal penyebab kegagalan (SPoF)
+    - Memantau ketersediaan
     - Mengupas komponen populer
       - RDBMS
       - *Message Queue / Broker*
